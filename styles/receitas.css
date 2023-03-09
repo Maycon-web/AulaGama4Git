@@ -1,0 +1,29 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.todas-as-receitas-section {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.todas-receitas-flex {
+display: flex;
+flex-wrap: wrap;
+width: 80%;
+
+}
